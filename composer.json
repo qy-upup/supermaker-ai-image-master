@@ -1,0 +1,14 @@
+{
+  "name": "qy-upup/supermaker-ai-image-master-2",
+  "description": "A robust and reliable PHP library for seamless integration with the supermaker-ai-image-master-2 service, providing developers with a streamlined interface for image processing and manipulation.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "supermakeraiimagemaster2\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
